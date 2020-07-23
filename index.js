@@ -1,4 +1,4 @@
-const jsonfile = require('jsonfile');
+const jsonfile = require('jsonfile')
 const moment = require('moment');
 
 
