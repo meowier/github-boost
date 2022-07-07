@@ -19,7 +19,7 @@
   "homepage": "https://github.com/meowier/github-boost#readme",
   "dependencies": {
     "jsonfile": "^6.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "simple-git": "^1.132.0"
   }
 }
